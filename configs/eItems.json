@@ -1,6 +1,6 @@
 {
-    "Language": "en",
-    "UseLocal": false,
+    "Language": "zh_hans",
+    "UseLocal": true,
     "ForceDisableHibernation": false,
     "DownloadSprays": false
 }
